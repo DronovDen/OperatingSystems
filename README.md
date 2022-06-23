@@ -4,7 +4,7 @@
 2. [Время в Калифорнии](https://github.com/DronovDen/OperatingSystems/tree/main/lab2)
 3. [Установка идентификатора пользователя для доступа к файлу](https://github.com/DronovDen/OperatingSystems/tree/main/lab3)
 ### Управление памятью
-4. [Список строк]https://github.com/DronovDen/OperatingSystems/tree/main/lab4)
+4. [Список строк](https://github.com/DronovDen/OperatingSystems/tree/main/lab4)
 ### Создание пpоцессов и исполнение пpогpамм. Управление процессами
 10. [Код завершения команды](https://github.com/DronovDen/OperatingSystems/tree/main/lab10)
 ### Программные каналы
